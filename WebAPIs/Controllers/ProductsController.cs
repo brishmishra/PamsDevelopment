@@ -17,7 +17,6 @@ namespace WebAPIs.Controllers
         {
             new Product { Id = 1, Name = "Laptop", Category = "Electronics", Price = 100000 },
 
-
             new Product { Id = 2, Name = "Jeans", Category = "Garments", Price = 200000 },
 
             new Product { Id = 3, Name = "Juicer", Category = "Home Appliances", Price = 300000 },
